@@ -1,0 +1,36 @@
+
+±
+java:S1319."pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ô˜ËìøÿÿÿÿJ$1433e6ed-bd52-4a55-a856-99a1f8066baf
+°
+java:S1319m"oThe type of "orderDetailDTOS" should be an interface such as "List" rather than the implementation "ArrayList".(ĞÜ­óûÿÿÿÿJ$3d383408-835a-46f9-9df6-552373a4e334
+š
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "i".(ÍÈ­•şÿÿÿÿJ$fe0d3083-d107-4430-b539-edd70d169841
+š
+java:S1488'"YImmediately return this expression instead of assigning it to the temporary variable "i".(ÍÈ­•şÿÿÿÿJ$42282711-ad6f-4368-9f3a-36afd9f9a34e
+š
+java:S1488b"YImmediately return this expression instead of assigning it to the temporary variable "i".(ÍÈ­•şÿÿÿÿJ$5035b77e-0752-4e3f-96f5-3b92dd0822a0
+l
+java:S2095r"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢ËŸ8ëó‰Ã2
+l
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(œäõÈ8ëó‰Ã2
+q
+java:S2095D"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸èŠ¦ıÿÿÿÿ8ìó‰Ã2
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(íÃ…¢ıÿÿÿÿ8ìó‰Ã2
+l
+java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…ã÷Õ8ìó‰Ã2
+q
+java:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ˆÄÑßıÿÿÿÿ8ìó‰Ã2
+q
+java:S2095}"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¾¸ÿŞúÿÿÿÿ8íó‰Ã2
+{
+java:S1118":Add a private constructor to hide the implicit public one.(Õå½êúÿÿÿÿJ$58c3eb4c-7af9-40ce-8240-afae191dce50
+[
+java:S69052"Don't use the query "SELECT *".(…ã÷ÕJ$d3957bcb-dbdc-4266-a0e0-15cfa7f4b57a
+`
+java:S6905D"Don't use the query "SELECT *".(¸èŠ¦ıÿÿÿÿJ$3e48b661-1687-4ac8-9d55-9916ede57cc9
+y
+java:S6909€"<Move this loop-invariant setter invocation out of this loop.(îÂöÎJ$5f3b067f-b757-46b3-8a26-17e23094bd38
+k	java:S106y"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿJ$0eabeea0-9030-4bd4-9172-d7daa29175e1
+“
+java:S6912…"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(ğËŠõJ$4a906796-3712-464a-8acd-fe08ca526673

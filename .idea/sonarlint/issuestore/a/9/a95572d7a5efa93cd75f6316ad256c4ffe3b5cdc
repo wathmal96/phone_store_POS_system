@@ -1,0 +1,13 @@
+
+†	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$013cdbb8-8560-4040-9480-b374fbd06d33
+†	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$e35cfcab-b094-42b8-9e6a-a9120ff0f3c4
+†	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$3ac99138-a70c-4bd8-8a95-e5ca94295e3c
+†	java:S112{"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$cac9f86f-2d94-450d-a7f1-2f9249323d5d
+
+java:S2147l"ECombine this catch with the one at line 106, which has the same body.(ıàÑÎJ$1f115e65-f114-4f53-8a3b-876301ba3bf5
+
+java:S2147z"ECombine this catch with the one at line 120, which has the same body.(ıàÑÎJ$9dbf7ffe-b253-4757-ad17-3b90cc4d0867
+}	java:S125"<This block of commented-out lines of code should be removed.(†Œ›¦ùÿÿÿÿJ$f1700455-843c-4218-9515-9331fbe3d99b
+}	java:S125“"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿJ$95e2217f-4d0c-4e5a-aeab-8578c724f841
+b
+java:S1128"@Remove this unused import 'lk.acpt.phonestore2.db.DBConnection'.(Ò©¾ûÿÿÿÿ8†ì‰Ã2

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane fx:id="root" prefHeight="400.0" prefWidth="299.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.acpt.phonestore2.controller.PhoneManageController">
+   <children>
+      <Label layoutX="52.0" layoutY="55.0" text="Phone Manager">
+         <font>
+            <Font size="27.0" />
+         </font>
+      </Label>
+      <Button layoutX="85.0" layoutY="116.0" mnemonicParsing="false" onAction="#add" prefHeight="39.0" prefWidth="123.0" text="ADD" />
+      <Button layoutX="85.0" layoutY="178.0" mnemonicParsing="false" onAction="#delete" prefHeight="39.0" prefWidth="123.0" text="DELETE" />
+      <Button layoutX="85.0" layoutY="242.0" mnemonicParsing="false" onAction="#upadate" prefHeight="39.0" prefWidth="123.0" text="UPDATE" />
+      <Button layoutX="85.0" layoutY="304.0" mnemonicParsing="false" onAction="#viewAll" prefHeight="39.0" prefWidth="123.0" text="VIEW ALL" />
+      <ImageView fitHeight="39.0" fitWidth="49.0" onMouseClicked="#back" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assests/icons8-back-50.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
